@@ -2,12 +2,7 @@
  *     FONT AWESOME CORE
  * -------------------------- */
  
- @font-face {
-  font-family: 'FontAwesome';
-  src: url('https://brydenj.github.io/RichWidgets/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
+ 
 
 body .fa:after {
     content: "";  /* revert offline font: fallback */
